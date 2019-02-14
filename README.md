@@ -3,8 +3,8 @@
 ### Description ###
 - Shows ideas behind design patterns with actual code and how you might implement them with real code examples.
 
-# Creational Patterns # 
-* Abstract Factory Pattern
+# [Creational Patterns](https://github.com/arffdev/design-patterns/tree/master/CreationalDesignPatterns) # 
+* [Abstract Factory Pattern](https://github.com/arffdev/design-patterns/tree/master/CreationalDesignPatterns/AbstractFactoryPattern)
 * Builder Pattern
 * Factory Method Pattern
 * Prototype Pattern
