@@ -4,7 +4,7 @@ using System.Text;
 
 namespace AbstractFactoryPattern.Cars.Abstracts
 {
-  public abstract class SadanAbstract
+  public abstract class SedanAbstract
   {
     public abstract void Create();
   }

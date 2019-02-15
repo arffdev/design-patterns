@@ -3,7 +3,7 @@ using System;
 
 namespace AbstractFactoryPattern.Cars
 {
-  public class Camry : SadanAbstract
+  public class Camry : SedanAbstract
   {
     public override void Create()
     {

@@ -6,7 +6,7 @@ namespace AbstractFactoryPattern.Factories
 {
   public class ToyotaFactory : CarAbstractFactory
   {
-    public override SadanAbstract CreatSadan()
+    public override SedanAbstract CreatSedan()
     {
       return new Camry();
     }
