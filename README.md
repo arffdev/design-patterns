@@ -5,7 +5,7 @@
 
 # [Creational Patterns](https://github.com/arffdev/design-patterns/tree/master/CreationalDesignPatterns) # 
 * [Abstract Factory Pattern](https://github.com/arffdev/design-patterns/tree/master/CreationalDesignPatterns/AbstractFactoryPattern)
-* Builder Pattern
+* [Builder Pattern](https://github.com/arffdev/design-patterns/tree/master/CreationalDesignPatterns/BuilderPattern)
 * Factory Method Pattern
 * Prototype Pattern
 * Singleton Pattern
