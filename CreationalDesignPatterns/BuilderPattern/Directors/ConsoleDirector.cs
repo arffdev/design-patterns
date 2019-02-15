@@ -4,7 +4,7 @@ namespace BuilderPattern.Directors
 {
   public class ConsoleDirector
   {
-    public ConsoleDirector(ConsoleBuilder consoleBuilder)
+    public void Construct(ConsoleBuilder consoleBuilder)
     {
       consoleBuilder.AddName();
       consoleBuilder.AddGraphicsCard();
