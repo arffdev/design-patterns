@@ -3,8 +3,8 @@
 ### Description ###
 - Shows ideas behind design patterns with actual code and how you might implement them with real code examples.
 
-# Creational Patterns [link](https://github.com/arffdev/design-patterns/tree/master/CreationalDesignPatterns) # 
-* Abstract Factory Pattern[link](https://github.com/arffdev/design-patterns/tree/master/CreationalDesignPatterns/AbstractFactoryPattern)
+## Creational Patterns ## [link](https://github.com/arffdev/design-patterns/tree/master/CreationalDesignPatterns) 
+* Abstract Factory Pattern [link](https://github.com/arffdev/design-patterns/tree/master/CreationalDesignPatterns/AbstractFactoryPattern)
 	* Without specifying concrete classes you can encapsulate a group of individual factories.
 	* One factory could be capable of multiple actions that produce different results.
 * Builder Pattern [link](https://github.com/arffdev/design-patterns/tree/master/CreationalDesignPatterns/BuilderPattern)
