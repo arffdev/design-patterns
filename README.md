@@ -13,7 +13,8 @@
 	* One factory could be capable of multiple actions that produce different results.
 * Builder Pattern [link](https://github.com/arffdev/design-patterns/tree/master/CreationalDesignPatterns/BuilderPattern)
 	* By splitting up the work to different processes/builders that are capable of creating complex objects in a simpler manner.
-* Factory Method Pattern
+* Factory Method Pattern [link](https://github.com/arffdev/design-patterns/tree/master/CreationalDesignPatterns/FactoryMethodPattern)
+	* Using factory methods to create objects without having to define the exact class.
 * Prototype Pattern
 * Singleton Pattern
 
