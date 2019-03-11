@@ -27,7 +27,7 @@ namespace BuilderPattern
       director.Construct(builder);
       builder.VideogameConsole.DisplaySpecs();
 
-      Console.ReadKey(true);
+      Console.ReadKey();
     }
   }
 }

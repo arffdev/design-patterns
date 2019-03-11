@@ -25,7 +25,7 @@ namespace FactoryMethodPattern
 
       Console.WriteLine("--------------------------");
       Console.WriteLine("Birds are spawning everywhere!");
-      Console.ReadKey(true);
+      Console.ReadKey();
 
       // birds spawn noise
       foreach (var bird in birdList)
@@ -36,7 +36,7 @@ namespace FactoryMethodPattern
 
       Console.WriteLine("--------------------------");
       Console.WriteLine("Birds are attacking!");
-      Console.ReadKey(true);
+      Console.ReadKey();
 
       // birds attacking
       foreach (var bird in birdList)
@@ -47,7 +47,7 @@ namespace FactoryMethodPattern
 
       Console.WriteLine("--------------------------");
       Console.WriteLine("You are dead!");
-      Console.ReadKey(true);
+      Console.ReadKey();
     }
   }
 }

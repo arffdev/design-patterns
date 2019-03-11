@@ -20,7 +20,7 @@ namespace AbstractFactoryPattern
       ToyotaFactory.CreatSuv().Create();
 
       Console.WriteLine("\nPress any key to exit...");
-      Console.ReadKey(true);
+      Console.ReadKey();
     }
   }
 }
