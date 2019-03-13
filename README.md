@@ -19,7 +19,8 @@
 	* By creating an object pool a client can access that pool of already initialized objects instead of creating new objects.
 	* This is a good pattern when you are really concerned about performance.
 * Prototype Pattern
-	* Not implemented yet
+	* Creates "clones" from an abstract base class to create new objects.
+	* Meant to avoid sublcasses like the Abstract Factory pattern.
 * Singleton Pattern
 	* Not implemented yet
 
